@@ -1,0 +1,8 @@
+@inproceedings{REPO060,
+    author = "Pang, Yatian and Wang, Wenxiao and Tay, Francis EH and Liu, Wei and Tian, Yonghong and Yuan, Li",
+    booktitle = "European conference on computer vision",
+    organization = "Springer",
+    pages = "604--621",
+    title = "{Masked Autoencoders for Point Cloud Self-Supervised Learning}",
+    year = "2022"
+}
